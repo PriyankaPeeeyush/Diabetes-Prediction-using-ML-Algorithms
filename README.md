@@ -1,8 +1,10 @@
 # Diabetes-Prediction-using-ML-Algorithms
 
 Developed diabetes prediction model using Frankfurt and PIMA
-data./n
+data.
+
 Explored data, pre-processed, and compared algorithms
 (Logistic Regression, Decision Tree, RF, SVM, Adaptive Boosting,
-Gradient Boosting, XG Boost)./n
+Gradient Boosting, XG Boost).
+
 Compared the results for both Frankfurt and PIMA datasets.
